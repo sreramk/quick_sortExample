@@ -1,2 +1,1 @@
-# quick_sortExample
-A simple implementation of quicksort algorithm.
+# A simple example for quick sort algorithm
