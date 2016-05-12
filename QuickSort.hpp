@@ -1,3 +1,9 @@
+/*
+ * copyright (c) 2016 K Sreram
+ * This program and any associated files are under MIT license (https://opensource.org/licenses/MIT)
+ */
+
+
 #ifndef _QUICK_SORT_
 #define _QUICK_SORT_
 
