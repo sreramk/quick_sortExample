@@ -1,3 +1,8 @@
+/*
+ * copyright (c) 2016 K Sreram
+ * This program and any associated files are under MIT license (https://opensource.org/licenses/MIT)
+ */
+
 #define TEST_COMPLEXITY true
 #include <iostream>
 #include "quicksort\QuickSort.hpp"
